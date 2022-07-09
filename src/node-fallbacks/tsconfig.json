@@ -22,7 +22,8 @@
       "tty": ["node_modules/tty-browserify"],
       "url": ["node_modules/url"],
       "util": ["node_modules/util"],
-      "zlib": ["node_modules/browserify-zlib"]
+      "zlib": ["node_modules/browserify-zlib"],
+      "error": ["node_modules/error-polyfill"]
     }
   }
 }
